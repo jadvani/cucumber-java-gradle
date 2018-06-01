@@ -1,7 +1,7 @@
 Feature: Attempting to grab some elements as List 
 	A list can be represented as DataTable. We have to convert it to List or Map in our step. 
 
-Scenario: we want to creat a List from different strings 
+Scenario: we want to create a List from different strings 
 
 	Given this data table: 
 		| productName	|

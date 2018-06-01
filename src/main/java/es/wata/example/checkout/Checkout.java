@@ -2,7 +2,7 @@
 Created by Javier Advani
 on May 30, 2018
 ***/
-package es.wata.example;
+package es.wata.example.checkout;
 
 import java.util.ArrayList;
 import java.util.List;
